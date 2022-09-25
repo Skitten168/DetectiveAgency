@@ -1,17 +1,17 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 body{
-    background:black;
-    color:white;
+    background:white;
+    color:black;
 }
 form input{
-    color:black;
+    color:white;
 }
 h1,h2{
-    color:green;
+    color:aliceblue;
 }
 .jumbotron{
-    color:black;
+    color:ghostwhite;
 }
 a.navbar-brand {
   white-space: normal;
